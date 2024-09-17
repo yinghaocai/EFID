@@ -1,0 +1,1 @@
+train ViT-base model from https://github.com/open-mmlab/mmpretrain
